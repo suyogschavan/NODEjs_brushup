@@ -9,6 +9,7 @@
   "author": "Suyog Chavan",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.3.0",
     "colors": "^1.4.0"
   }
 }
