@@ -1,3 +1,6 @@
-const colors = require('colors');
+var http = require('http');
 
-console.log("Suyog".red)
+http.createServer((req, res)=>{
+    res.write("SoulServer is running");
+    res.end();
+}).listen(8080);
