@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_brushup",
+  "version": "1.0.0",
+  "description": "This is just brushup of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suyog Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
